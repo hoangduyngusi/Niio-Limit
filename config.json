@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " Hoang Duy",
+    "AMDIN_NAME": "Ha Hoang Duy ",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
+    "FACEBOOK_ADMIN": "https://m.facebook.com/hduymod",
     "PREFIX": ".",
-    "box_admin": "",
+    "box_admin": "bot test",
     "ADMINBOT": [
-        "",
+        "61579627700985",
         ""
     ],
     "NDH": [
-        "",
+        "61579627700985",
         ""
     ],
     "autoCleanCache": {
